@@ -14,7 +14,7 @@ How to Use 📂
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/portfolio-website.git
+git clone 
 Open the index.html file in your browser to view the home page.
 Navigate to the contact.html file to see the contact page.
 Demo 📸
